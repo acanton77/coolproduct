@@ -17,3 +17,17 @@
 .contact-address, .contact-address a, .creds a {
 color:white;
 }
+
+
+@media only screen and (max-width: 640px) { 
+  
+.navbar-brand {
+   height: 30px ;
+}
+
+.navbar-inverse .navbar-brand {
+
+  font-size: 12px ;
+}
+
+}
