@@ -1,0 +1,19 @@
+.theme {
+	color: #EF8452;
+}
+ 
+#h {
+	background-image: url(../img/header-bg.jpg);
+}
+
+.navbar-brand {
+  height: 90px;
+}
+
+.navbar-inverse .navbar-brand {
+	font-size: 30px;
+}
+
+.contact-address, .contact-address a, .creds a {
+color:white;
+}
